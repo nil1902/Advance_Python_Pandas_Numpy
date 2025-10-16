@@ -70,6 +70,7 @@ Data doesn’t lie — but it sure likes to hide the truth cleverly.
 My goal? To find patterns in chaos. 🌀
 
 🔗 Connect with Me:
+---
 <!-- 🌟 Redesigned Footer Section -->
 <p align="center">
   <a href="https://github.com/nil1902" target="_blank">
@@ -97,7 +98,7 @@ My goal? To find patterns in chaos. 🌀
 </p>
 
 
-
+---
 
 
 
