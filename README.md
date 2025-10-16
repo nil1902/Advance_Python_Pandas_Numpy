@@ -12,28 +12,33 @@
 ---
 
 ## 🧠 About This Repo
+
 > This repository is my playground to master **NumPy** and **Pandas** —  
-> where numbers turn into patterns, and datasets start to *talk back!*  
+> where numbers turn into patterns, and datasets start to _talk back!_
 
 Here, you'll find:
-- 🧩 Mini Projects built using **NumPy arrays** & **Pandas DataFrames**  
-- 📊 Data experiments that turn raw CSVs into insights  
-- ⚡ Hands-on notebooks showing **real-world data manipulations**  
+
+- 🧩 Mini Projects built using **NumPy arrays** & **Pandas DataFrames**
+- 📊 Data experiments that turn raw CSVs into insights
+- ⚡ Hands-on notebooks showing **real-world data manipulations**
 - 🎯 Challenges, visualizations, and quirky little experiments!
 
 ---
 
 ## ⚙️ Tech Stack
-| Tool | Description |
-|------|-------------|
-| 🐍 Python | The core language of my journey |
-| 🧮 NumPy | Matrix math wizardry 🧠 |
-| 🐼 Pandas | Data wrangling superhero 🦸‍♂️ |
-| 📈 Matplotlib | Painting with data 🎨 |
-| 🪄 Jupyter | My digital laboratory for exploration |
+
+| Tool          | Description                           |
+| ------------- | ------------------------------------- |
+| 🐍 Python     | The core language of my journey       |
+| 🧮 NumPy      | Matrix math wizardry 🧠               |
+| 🐼 Pandas     | Data wrangling superhero 🦸‍♂️           |
+| 📈 Matplotlib | Painting with data 🎨                 |
+| 🪄 Jupyter    | My digital laboratory for exploration |
 
 ---
+
 ## 🌈 What I'm Currently Doing
+
 ```python
 import numpy as np
 import pandas as pd
@@ -46,6 +51,7 @@ while curiosity:
 ```
 
 ## 📚 Learning Goals
+
 - ✅ Master NumPy array operations
 - ✅ Data cleaning with Pandas
 - 🚀 Build cool DataFrames from APIs
@@ -53,6 +59,7 @@ while curiosity:
 - 💡 Create mini data science projects
 
 ## 💻 Sneak Peek of My Style
+
 ```python
 import pandas as pd
 import numpy as np
@@ -62,27 +69,38 @@ data = np.random.randint(1, 100, size=(5, 3))
 df = pd.DataFrame(data, columns=["✨X", "⚡Y", "🚀Z"])
 print(df.describe())
 ```
-## 🔗 Creation of env veriable for running pandas 
+
+## 🔗 Creation of env veriable for running pandas
+
 ```python
-python -m venv myenv 
+python -m venv myenv
 ```
+
 ## 🔗 Go inside the **myenv** folder and activate the Scripts
+
 ```python
 myenv\Scripts\activate
-``` 
-## 🔗 Install pandas 
-```python
-pip install pandas 
 ```
-## 🔗 Upgrade the old library 
+
+## 🔗 Install pandas
+
+```python
+pip install pandas
+```
+
+## 🔗 Upgrade the old library
+
 ```python
 python.exe -m pip install --upgrade pip
 ```
+
 ## 🧩 Fun Fact
+
 Data doesn't lie — but it sure likes to hide the truth cleverly.
 My goal? To find patterns in chaos. 🌀
 
 ## 🔗 Connect with Me
+
 <p align="center">
   <a href="https://github.com/nil1902" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
@@ -97,14 +115,14 @@ My goal? To find patterns in chaos. 🌀
     <img src="https://img.shields.io/badge/-Portfolio-1abc9c?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
-
+<div style="display:inline-block; padding:20px; border:2px solid #00C9A7; border-radius:15px; background-color:#0f0f0f;">
 <p align="center">
-  <div style="display:inline-block; padding:20px; border:2px solid #00C9A7; border-radius:15px; background-color:#0f0f0f;">
+  
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=00C9A7&center=true&vCenter=true&width=550&lines=Keep+Learning+%F0%9F%93%9A;Keep+Building+%F0%9F%92%BB;Keep+Exploring+%F0%9F%9A%80;Data+Is+Beautiful+%E2%9C%A8" 
          alt="Typing Animation" />
-  </div>
+  
 </p>
-
+</div>
 
 <h2 align="center">💫 Let's Make Data Dance 💃🕺</h2>
 
