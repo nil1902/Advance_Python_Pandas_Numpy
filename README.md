@@ -62,7 +62,22 @@ data = np.random.randint(1, 100, size=(5, 3))
 df = pd.DataFrame(data, columns=["✨X", "⚡Y", "🚀Z"])
 print(df.describe())
 ```
-
+## 🔗 Creation of env veriable for running pandas 
+```python
+python -m venv myenv 
+```
+## 🔗 Go inside the **myenv** folder and activate the Scripts
+```python
+myenv\Scripts\activate
+``` 
+## 🔗 Install pandas 
+```python
+pip install pandas 
+```
+## 🔗 Upgrade the old library 
+```python
+python.exe -m pip install --upgrade pip
+```
 ## 🧩 Fun Fact
 Data doesn't lie — but it sure likes to hide the truth cleverly.
 My goal? To find patterns in chaos. 🌀

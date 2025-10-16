@@ -1,0 +1,212 @@
+[
+  {
+    "Student_ID": 101,
+    "Name": "Aarav Sharma",
+    "Department": "Electronics",
+    "Marks": 88,
+    "Grade": "A"
+  },
+  {
+    "Student_ID": 102,
+    "Name": "Diya Patel",
+    "Department": "Computer Science",
+    "Marks": 92,
+    "Grade": "A+"
+  },
+  {
+    "Student_ID": 103,
+    "Name": "Arjun Das",
+    "Department": "Mechanical",
+    "Marks": 76,
+    "Grade": "B+"
+  },
+  {
+    "Student_ID": 104,
+    "Name": "Isha Roy",
+    "Department": "Civil",
+    "Marks": 85,
+    "Grade": "A"
+  },
+  {
+    "Student_ID": 105,
+    "Name": "Ravi Singh",
+    "Department": "Electrical",
+    "Marks": 67,
+    "Grade": "B"
+  },
+  {
+    "Student_ID": 106,
+    "Name": "Sneha Ghosh",
+    "Department": "Information Technology",
+    "Marks": 95,
+    "Grade": "A+"
+  },
+  {
+    "Student_ID": 107,
+    "Name": "Karan Mehta",
+    "Department": "Electronics",
+    "Marks": 82,
+    "Grade": "A"
+  },
+  {
+    "Student_ID": 108,
+    "Name": "Priya Nair",
+    "Department": "Mechanical",
+    "Marks": 73,
+    "Grade": "B+"
+  },
+  {
+    "Student_ID": 109,
+    "Name": "Rahul Verma",
+    "Department": "Civil",
+    "Marks": 69,
+    "Grade": "B"
+  },
+  {
+    "Student_ID": 110,
+    "Name": "Tanya Singh",
+    "Department": "Computer Science",
+    "Marks": 91,
+    "Grade": "A+"
+  },
+  {
+    "Student_ID": 111,
+    "Name": "Vikram Chauhan",
+    "Department": "Electrical",
+    "Marks": 78,
+    "Grade": "B+"
+  },
+  {
+    "Student_ID": 112,
+    "Name": "Ananya Gupta",
+    "Department": "Information Technology",
+    "Marks": 89,
+    "Grade": "A"
+  },
+  {
+    "Student_ID": 113,
+    "Name": "Harsh Yadav",
+    "Department": "Civil",
+    "Marks": 64,
+    "Grade": "C+"
+  },
+  {
+    "Student_ID": 114,
+    "Name": "Ritu Sen",
+    "Department": "Electronics",
+    "Marks": 86,
+    "Grade": "A"
+  },
+  {
+    "Student_ID": 115,
+    "Name": "Sahil Khan",
+    "Department": "Mechanical",
+    "Marks": 71,
+    "Grade": "B"
+  },
+  {
+    "Student_ID": 116,
+    "Name": "Meera Banerjee",
+    "Department": "Computer Science",
+    "Marks": 97,
+    "Grade": "A+"
+  },
+  {
+    "Student_ID": 117,
+    "Name": "Rohan Das",
+    "Department": "Electrical",
+    "Marks": 80,
+    "Grade": "A"
+  },
+  {
+    "Student_ID": 118,
+    "Name": "Shreya Iyer",
+    "Department": "Civil",
+    "Marks": 68,
+    "Grade": "B"
+  },
+  {
+    "Student_ID": 119,
+    "Name": "Aditi Paul",
+    "Department": "Electronics",
+    "Marks": 90,
+    "Grade": "A+"
+  },
+  {
+    "Student_ID": 120,
+    "Name": "Manav Kapoor",
+    "Department": "Mechanical",
+    "Marks": 77,
+    "Grade": "B+"
+  },
+  {
+    "Student_ID": 121,
+    "Name": "Divya Rani",
+    "Department": "Computer Science",
+    "Marks": 93,
+    "Grade": "A+"
+  },
+  {
+    "Student_ID": 122,
+    "Name": "Kabir Sinha",
+    "Department": "Information Technology",
+    "Marks": 84,
+    "Grade": "A"
+  },
+  {
+    "Student_ID": 123,
+    "Name": "Nisha Agarwal",
+    "Department": "Electrical",
+    "Marks": 79,
+    "Grade": "B+"
+  },
+  {
+    "Student_ID": 124,
+    "Name": "Aditya Jain",
+    "Department": "Civil",
+    "Marks": 72,
+    "Grade": "B"
+  },
+  {
+    "Student_ID": 125,
+    "Name": "Ritika Bose",
+    "Department": "Mechanical",
+    "Marks": 83,
+    "Grade": "A"
+  },
+  {
+    "Student_ID": 126,
+    "Name": "Sandeep Roy",
+    "Department": "Computer Science",
+    "Marks": 87,
+    "Grade": "A"
+  },
+  {
+    "Student_ID": 127,
+    "Name": "Pooja Sharma",
+    "Department": "Information Technology",
+    "Marks": 91,
+    "Grade": "A+"
+  },
+  {
+    "Student_ID": 128,
+    "Name": "Neha Joshi",
+    "Department": "Electronics",
+    "Marks": 74,
+    "Grade": "B+"
+  },
+  {
+    "Student_ID": 129,
+    "Name": "Vivek Tiwari",
+    "Department": "Mechanical",
+    "Marks": 70,
+    "Grade": "B"
+  },
+  {
+    "Student_ID": 130,
+    "Name": "Simran Kaur",
+    "Department": "Computer Science",
+    "Marks": 96,
+    "Grade": "A+"
+  }
+]
