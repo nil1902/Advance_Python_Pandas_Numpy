@@ -75,10 +75,10 @@ My goal? To find patterns in chaos. 🌀
   <a href="https://www.linkedin.com/in/nilimesh-pal-3882ab162/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:nilimesh1902@gmail.com" target="_blank">
+  <a href="mailto:nilimeshpal15@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://nil1902.github.io" target="_blank">
+  <a href="https://nilimesh-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-1abc9c?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
