@@ -115,14 +115,14 @@ My goal? To find patterns in chaos. 🌀
     <img src="https://img.shields.io/badge/-Portfolio-1abc9c?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
-<div style="display:inline-block; padding:20px; border:2px solid #00C9A7; border-radius:15px; background-color:#0f0f0f;">
+
 <p align="center">
   
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=00C9A7&center=true&vCenter=true&width=550&lines=Keep+Learning+%F0%9F%93%9A;Keep+Building+%F0%9F%92%BB;Keep+Exploring+%F0%9F%9A%80;Data+Is+Beautiful+%E2%9C%A8" 
          alt="Typing Animation" />
   
 </p>
-</div>
+
 
 <h2 align="center">💫 Let's Make Data Dance 💃🕺</h2>
 
