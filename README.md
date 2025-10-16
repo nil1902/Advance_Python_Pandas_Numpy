@@ -69,15 +69,35 @@ print(df.describe())
 Data doesn’t lie — but it sure likes to hide the truth cleverly.
 My goal? To find patterns in chaos. 🌀
 
-🔗 Connect with Me
-'''
-<p align="center"> <a href="https://github.com/nil1902" target="_blank"> <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/nilimesh-pal-3882ab162/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=500&lines=Keep+learning+📚;Keep+coding+💻;Keep+creating+✨" alt="Typing SVG" /> </p>
-<h3 align="center">✨ Let’s make data dance! 💃🕺</h3> '''
-🌟 Optional Add-ons (for extra shine)
-You can:
+🔗 Connect with Me:
+<!-- 🌟 Redesigned Footer Section -->
+<p align="center">
+  <a href="https://github.com/nil1902" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/nilimesh-pal-3882ab162/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:nilimesh1902@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://nil1902.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-1abc9c?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
-Add badges from shields.io (like Python version, repo stars, etc.)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C9A7&center=true&vCenter=true&width=550&lines=Keep+Learning+📚;Keep+Building+💻;Keep+Exploring+🚀;Data+Is+Beautiful+✨" alt="Typing Animation" />
+</p>
 
-NILIMESH PAL
+<h2 align="center">💫 Let’s Make Data Dance 💃🕺</h2>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+
+
+
+
+
 
