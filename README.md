@@ -70,18 +70,13 @@ Data doesn’t lie — but it sure likes to hide the truth cleverly.
 My goal? To find patterns in chaos. 🌀
 
 🔗 Connect with Me
+'''
 <p align="center"> <a href="https://github.com/nil1902" target="_blank"> <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/nilimesh-pal-3882ab162/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=500&lines=Keep+learning+📚;Keep+coding+💻;Keep+creating+✨" alt="Typing SVG" /> </p>
-<h3 align="center">✨ Let’s make data dance! 💃🕺</h3> ```
+<h3 align="center">✨ Let’s make data dance! 💃🕺</h3> '''
 🌟 Optional Add-ons (for extra shine)
 You can:
 
 Add badges from shields.io (like Python version, repo stars, etc.)
 
-Add a GitHub Stats card
-
-markdown
-Copy code
-![Nilimesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=nil1902&show_icons=true&theme=tokyonight)
-Use gradient headers or animated banners (like capsule-render.vercel.app)
 
