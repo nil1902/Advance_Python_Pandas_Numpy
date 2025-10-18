@@ -1,0 +1,25 @@
+1. understand the data
+2. identify the problems 
+3. plan next steps 
+
+
+
+rows and column extract 
+
+starting top 5 rows 
+head()=> top 5 by default number fetch 
+tail()=> bottom 5 by default number fetch 
+
+for display the data => write print ()
+
+
+head (n)=> display "n" rows 
+
+problems: 
+  1.column ? rows?
+  2.what type of data
+  3.missing data ?
+solution:
+ 1. info() method 
+ 2. non null value 
+ 3. memory usage of data set 

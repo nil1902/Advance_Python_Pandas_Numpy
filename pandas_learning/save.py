@@ -6,6 +6,7 @@ data={
 }
 df = pd.DataFrame(data)
 df.to_csv('output.csv', index=False)
-print(df)
+print(df) 
+print(df.info()) #print summary of dataframe
 df.to_excel('output.xlsx', index=False)
 df.to_json('output.json', orient='records', lines=True)

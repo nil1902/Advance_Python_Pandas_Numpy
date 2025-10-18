@@ -1,0 +1,17 @@
+1. select specific columns -> returns 1. a seris and 2. dataframe multiple columns of data
+2. filter rows -> 
+3. combine multiple conditions 
+ 
+
+
+colom access :
+    column=df["column_name]
+    subset=df["col1","col2"]
+
+filtering rows based on single condition:
+    eg: get employee data having salary > 50k
+    filtered_rows=df[df["Salary_col] > 50000]
+
+multiple rows filter with multiple conditions :
+    filter_row =df[(df["Salary] > 50000) $ (df["Salary] < 80000) ]
+
