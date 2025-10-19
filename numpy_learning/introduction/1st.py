@@ -17,6 +17,7 @@ print("Average Humidity:", average_humidity)
 
 import numpy as np
 temparature_np = np.array(temparature)
+print(temparature_np)
 humidity_np = np.array(humidity)
 total_temp_np = np.sum(temparature_np)
 average_temp_np = np.mean(temparature_np)
